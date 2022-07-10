@@ -37,3 +37,9 @@
   font-size: 4em;
   color: rgb(55, 119, 148);
 }
+.footer{
+  background-color: #868383f8;
+  padding: 1em, 0.5em, 0.5em, 1em;
+  margin: 0.5em;
+  opacity: 0.8;
+}
