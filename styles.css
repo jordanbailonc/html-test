@@ -33,13 +33,31 @@
   height: 5em;
 }
 
+.methodology{
+  display: grid;
+  grid-template-columns: 150px,1000px,250px;
+  grid-template-rows: 25%,100px,auto;
+  padding: 1em;
+  border: 0.5em;
+}
+
 #content-h2 {
   font-size: 4em;
-  color: rgb(55, 119, 148);
+  color: rgb(82, 197, 97);
 }
 .footer{
   background-color: #868383f8;
   padding: 1em, 0.5em, 0.5em, 1em;
   margin: 0.5em;
   opacity: 0.8;
+}
+.title{
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  font-family: serif;
+  font-size: 4em;
+  font-style: italic;
+  color: rgb(82, 197, 97);
+  lighting-color: floralwhite;
 }
